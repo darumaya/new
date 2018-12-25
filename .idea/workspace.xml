@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/event/tomurayoko.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/tomurayoko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/tomurayoko.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/tomurayoko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/kimonodeodekake.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/kimonodeodekake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/kimonodeodekake.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/kimonodeodekake.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,15 +23,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="356">
               <caret line="135" column="10" selection-start-line="55" selection-end-line="135" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/revival/somenaoshi.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="195" column="21" selection-start-line="195" selection-start-column="21" selection-end-line="195" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -90,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/tomurayoko.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="447">
@@ -98,6 +89,15 @@
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#section#5;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/event/kimonodeodekake.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -142,6 +142,7 @@
         <option value="$PROJECT_DIR$/maintenance/shitate.html" />
         <option value="$PROJECT_DIR$/maintenance/araihari.html" />
         <option value="$PROJECT_DIR$/event/tomurayoko.html" />
+        <option value="$PROJECT_DIR$/event/kimonodeodekake.html" />
       </list>
     </option>
   </component>
@@ -238,7 +239,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14539000" />
+    <option name="totallyTimeSpent" value="14736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="686" extended-state="0" />
