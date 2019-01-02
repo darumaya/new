@@ -3,39 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/event/seijinshiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/seijinshiki.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/duplex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/core-util-is/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/core-util-is/float.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/core-util-is/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/core-util-is/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/core-util-is/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/isarray/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/isarray/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/isarray/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/isarray/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/isarray/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/string_decoder/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/string_decoder/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/string_decoder/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/string_decoder/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/node_modules/string_decoder/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/passthrough.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/npm/node_modules/sha/node_modules/readable-stream/writable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/komon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/komon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/shitatenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/shitatenaoshi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordinate/komon.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/komon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordinate/tsukesage.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/tsukesage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordinate/tsumugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/tsumugi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revival/shitatenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/shitatenaoshi.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -52,44 +27,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revival/shitatenaoshi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2145">
-              <caret line="143" selection-start-line="137" selection-end-line="143" />
+            <state relative-caret-position="517">
+              <caret line="303" column="17" selection-start-line="303" selection-start-column="17" selection-end-line="303" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coordinate/tsukesage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="55" selection-start-line="54" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coordinate/komon.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coordinate/tsumugi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="164" selection-start-line="164" selection-end-line="164" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maintenance/mon.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/revival/tocoat.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maintenance/araihari.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="118" column="48" selection-start-line="118" selection-start-column="48" selection-end-line="118" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -127,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2640">
-              <caret line="176" column="17" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
+            <state relative-caret-position="475">
+              <caret line="176" column="17" selection-start-line="136" selection-end-line="176" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -164,7 +139,6 @@
         <option value="$PROJECT_DIR$/maintenance/some.html" />
         <option value="$PROJECT_DIR$/revival/somenaoshi.html" />
         <option value="$PROJECT_DIR$/maintenance/yunoshi.html" />
-        <option value="$PROJECT_DIR$/revival/shitatenaoshi.html" />
         <option value="$PROJECT_DIR$/maintenance/mon.html" />
         <option value="$PROJECT_DIR$/revival/tocoat.html" />
         <option value="$PROJECT_DIR$/revival/tohikifurisode.html" />
@@ -176,6 +150,10 @@
         <option value="$PROJECT_DIR$/information/customerfeedback.html" />
         <option value="$PROJECT_DIR$/event/seijinshiki.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/revival/shitatenaoshi.html" />
+        <option value="$PROJECT_DIR$/coordinate/tsukesage.html" />
+        <option value="$PROJECT_DIR$/coordinate/komon.html" />
+        <option value="$PROJECT_DIR$/coordinate/tsumugi.html" />
       </list>
     </option>
   </component>
@@ -198,6 +176,11 @@
             <path>
               <item name="darumaya.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="darumaya.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="darumaya.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="darumaya.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="coordinate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="darumaya.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -272,12 +255,12 @@
       <workItem from="1546224046047" duration="244000" />
       <workItem from="1546242196970" duration="21000" />
       <workItem from="1546340336097" duration="168000" />
-      <workItem from="1546402815043" duration="286000" />
+      <workItem from="1546402815043" duration="765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17246000" />
+    <option name="totallyTimeSpent" value="17725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="686" extended-state="0" />
@@ -425,13 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/revival/shitatenaoshi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" selection-start-line="137" selection-end-line="143" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maintenance/mon.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -470,13 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="176" column="17" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maintenance/shitate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -495,6 +464,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="176" column="17" selection-start-line="136" selection-end-line="176" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revival/shitatenaoshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="303" column="17" selection-start-line="303" selection-start-column="17" selection-end-line="303" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coordinate/tsukesage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="55" selection-start-line="54" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coordinate/komon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coordinate/tsumugi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
         </state>
       </provider>
     </entry>
