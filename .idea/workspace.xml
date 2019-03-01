@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/event/tenjikai.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/tenjikai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/tenjikai.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/tenjikai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/kimonodeodekake.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/kimonodeodekake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/kimonodeodekake.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/kimonodeodekake.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/information/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/media.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="250">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/information/media.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -31,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/tenjikai.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+            <state relative-caret-position="283">
+              <caret line="34" selection-start-line="32" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -40,29 +52,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2145">
-              <caret line="143" column="10" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+            <state relative-caret-position="240">
+              <caret line="165" selection-start-line="165" selection-end-line="165" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event/kanshasai.html">
+        <entry file="file://$PROJECT_DIR$/coordinate/tsumugi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event/tomurayoko.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="10" selection-start-line="28" selection-end-line="53" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#section#5;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="422">
+              <caret line="169" selection-start-line="168" selection-end-line="169" />
             </state>
           </provider>
         </entry>
@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/kimonodeodekake.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="358">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
             </state>
           </provider>
         </entry>
@@ -140,7 +140,6 @@
         <option value="$PROJECT_DIR$/maintenance/shitate.html" />
         <option value="$PROJECT_DIR$/maintenance/araihari.html" />
         <option value="$PROJECT_DIR$/event/tomurayoko.html" />
-        <option value="$PROJECT_DIR$/event/kimonodeodekake.html" />
         <option value="$PROJECT_DIR$/event/seijinshiki.html" />
         <option value="$PROJECT_DIR$/revival/shitatenaoshi.html" />
         <option value="$PROJECT_DIR$/coordinate/tsukesage.html" />
@@ -152,7 +151,9 @@
         <option value="$PROJECT_DIR$/information/shop.html" />
         <option value="$PROJECT_DIR$/coordinate/osusume.html" />
         <option value="$PROJECT_DIR$/event/tenjikai.html" />
+        <option value="$PROJECT_DIR$/event/kimonodeodekake.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/information/media.html" />
       </list>
     </option>
   </component>
@@ -263,10 +264,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24653000" />
+    <option name="totallyTimeSpent" value="26050000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1260" height="686" extended-state="0" />
+    <frame x="9" y="42" width="1260" height="686" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
@@ -427,8 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/coordinate/tsukesage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" selection-start-line="54" selection-end-line="55" />
+        <state relative-caret-position="577">
+          <caret line="59" column="10" selection-start-line="25" selection-end-line="59" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -441,8 +442,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/coordinate/tsumugi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
-          <caret line="165" column="20" selection-start-line="165" selection-start-column="20" selection-end-line="165" selection-end-column="20" />
+        <state relative-caret-position="422">
+          <caret line="169" selection-start-line="168" selection-end-line="169" />
         </state>
       </provider>
     </entry>
@@ -462,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="10" selection-start-line="143" selection-start-column="10" selection-end-line="143" selection-end-column="10" />
+        <state relative-caret-position="240">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
         </state>
       </provider>
     </entry>
@@ -481,13 +482,6 @@
           <folding>
             <element signature="n#style#0;n#iframe#0;n#section#5;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/kimonodeodekake.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -521,15 +515,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/event/tenjikai.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+        <state relative-caret-position="283">
+          <caret line="34" selection-start-line="32" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/kimonodeodekake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="250">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/information/media.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
         </state>
       </provider>
     </entry>
