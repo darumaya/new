@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/consult.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/consult.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/furisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/furisode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/kodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/kodomo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/komon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/komon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/muji.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/muji.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/osusume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/otoko.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/otoko.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/yukata.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/yukata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/event/kanshasai.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/kanshasai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/event/tenjikai.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/tenjikai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/information/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/komon.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/komon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/osusume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/tsumugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/tsumugi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/yukata.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/yukata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/kanshasai.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/kanshasai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/tenjikai.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/tenjikai.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/shop.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -53,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1607">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            <state relative-caret-position="361">
+              <caret line="149" column="123" selection-start-line="149" selection-start-column="123" selection-end-line="149" selection-end-column="123" />
             </state>
           </provider>
         </entry>
@@ -107,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coordinate/yukata.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="344">
@@ -167,12 +144,12 @@
         <option value="$PROJECT_DIR$/revival/tokodomo.html" />
         <option value="$PROJECT_DIR$/coordinate/osusume.html" />
         <option value="$PROJECT_DIR$/event/kanshasai.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/event/tenjikai.html" />
         <option value="$PROJECT_DIR$/information/shop.html" />
         <option value="$PROJECT_DIR$/coordinate/komon.html" />
         <option value="$PROJECT_DIR$/coordinate/tsumugi.html" />
         <option value="$PROJECT_DIR$/coordinate/yukata.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -280,12 +257,12 @@
       <workItem from="1549195187425" duration="1671000" />
       <workItem from="1550539565060" duration="1699000" />
       <workItem from="1552195708770" duration="284000" />
-      <workItem from="1553939728490" duration="1979000" />
+      <workItem from="1553939728490" duration="2211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31239000" />
+    <option name="totallyTimeSpent" value="31471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="686" extended-state="0" />
@@ -581,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1607">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/event/tenjikai.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -620,6 +590,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="149" column="123" selection-start-line="149" selection-start-column="123" selection-end-line="149" selection-end-column="123" />
         </state>
       </provider>
     </entry>
