@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_site/information/customerfeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/customerfeedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/araihari.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/araihari.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/shitatenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/shitatenaoshi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/information/customerfeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/customerfeedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maintenance/araihari.html" beforeDir="false" afterPath="$PROJECT_DIR$/maintenance/araihari.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revival/shitatenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/shitatenaoshi.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,22 +25,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="154">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/maintenance/araihari.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="346" column="206" selection-start-line="346" selection-start-column="206" selection-end-line="346" selection-end-column="206" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
+        <entry file="file://$PROJECT_DIR$/revival/shitatenaoshi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="146" column="36" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
+            <state relative-caret-position="187">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -137,9 +145,7 @@
         <option value="$PROJECT_DIR$/information/media.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/maintenance/araihari.html" />
         <option value="$PROJECT_DIR$/maintenance/shitate.html" />
-        <option value="$PROJECT_DIR$/revival/shitatenaoshi.html" />
         <option value="$PROJECT_DIR$/revival/tohikifurisode.html" />
         <option value="$PROJECT_DIR$/revival/tokodomo.html" />
         <option value="$PROJECT_DIR$/coordinate/osusume.html" />
@@ -151,6 +157,8 @@
         <option value="$PROJECT_DIR$/coordinate/yukata.html" />
         <option value="$PROJECT_DIR$/event/seijinshiki.html" />
         <option value="$PROJECT_DIR$/information/customerfeedback.html" />
+        <option value="$PROJECT_DIR$/revival/shitatenaoshi.html" />
+        <option value="$PROJECT_DIR$/maintenance/araihari.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -263,11 +271,12 @@
       <workItem from="1554209091480" duration="332000" />
       <workItem from="1555998875130" duration="463000" />
       <workItem from="1556113625003" duration="158000" />
+      <workItem from="1556422814628" duration="450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32671000" />
+    <option name="totallyTimeSpent" value="33121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="686" extended-state="0" />
@@ -325,12 +334,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret column="198669" selection-start-column="198659" selection-end-column="198669" />
         </state>
       </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -346,24 +355,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maintenance/araihari.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maintenance/shitate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
           <caret line="108" column="1" lean-forward="true" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/revival/shitatenaoshi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="343" selection-start-line="343" selection-end-line="343" />
         </state>
       </provider>
     </entry>
@@ -535,6 +530,13 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2190">
+          <caret line="146" column="36" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/event/tenjikai.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -584,17 +586,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
+    <entry file="file://$PROJECT_DIR$/revival/shitatenaoshi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="146" column="36" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
+        <state relative-caret-position="187">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maintenance/araihari.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="346" column="206" selection-start-line="346" selection-start-column="206" selection-end-line="346" selection-end-column="206" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="154">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
         </state>
       </provider>
     </entry>
