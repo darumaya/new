@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/tohikifurisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/tohikifurisode.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/information/customerfeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/customerfeedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revival/tohikifurisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tohikifurisode.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,26 +23,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="136" column="22" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
+        <entry file="file://$PROJECT_DIR$/revival/tohikifurisode.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="439">
+              <caret line="252" lean-forward="true" selection-start-line="231" selection-end-line="252" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event/kanshasai.html">
+        <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="517">
+              <caret line="202" selection-start-line="202" selection-end-line="202" />
             </state>
           </provider>
         </entry>
@@ -134,13 +136,11 @@
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/maintenance/shitate.html" />
-        <option value="$PROJECT_DIR$/revival/tohikifurisode.html" />
         <option value="$PROJECT_DIR$/event/tenjikai.html" />
         <option value="$PROJECT_DIR$/information/shop.html" />
         <option value="$PROJECT_DIR$/coordinate/komon.html" />
         <option value="$PROJECT_DIR$/coordinate/tsumugi.html" />
         <option value="$PROJECT_DIR$/event/seijinshiki.html" />
-        <option value="$PROJECT_DIR$/information/customerfeedback.html" />
         <option value="$PROJECT_DIR$/revival/shitatenaoshi.html" />
         <option value="$PROJECT_DIR$/maintenance/araihari.html" />
         <option value="$PROJECT_DIR$/maintenance/shiminuki.html" />
@@ -152,6 +152,8 @@
         <option value="$PROJECT_DIR$/revival/tokodomo.html" />
         <option value="$PROJECT_DIR$/coordinate/index.html" />
         <option value="$PROJECT_DIR$/coordinate/osusume.html" />
+        <option value="$PROJECT_DIR$/revival/tohikifurisode.html" />
+        <option value="$PROJECT_DIR$/information/customerfeedback.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -268,11 +270,12 @@
       <workItem from="1557018742540" duration="6799000" />
       <workItem from="1557531141068" duration="337000" />
       <workItem from="1558535769455" duration="1166000" />
+      <workItem from="1558664261091" duration="502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41611000" />
+    <option name="totallyTimeSpent" value="42113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="686" extended-state="0" />
@@ -438,13 +441,6 @@
     <entry file="file://$PROJECT_DIR$/revival/shishu.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/revival/tohikifurisode.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6510">
-          <caret line="434" selection-start-line="434" selection-end-line="434" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/revival/tojuban.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -470,13 +466,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="146" column="36" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/event/tenjikai.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -531,13 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="136" column="22" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -597,6 +579,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revival/tohikifurisode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="252" lean-forward="true" selection-start-line="231" selection-end-line="252" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
