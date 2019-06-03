@@ -3,6 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/consult.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/consult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/furisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/furisode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/kodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/kodomo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/komon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/komon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/muji.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/muji.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/osusume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/otoko.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/otoko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/sawayaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/sawayaka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/yukata.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/yukata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/osusume.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coordinate/sawayaka.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -39,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="14" selection-end-line="143" />
+            <state relative-caret-position="351">
+              <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -149,12 +162,12 @@
         <option value="$PROJECT_DIR$/event/tomurayoko.html" />
         <option value="$PROJECT_DIR$/revival/tokodomo.html" />
         <option value="$PROJECT_DIR$/coordinate/index.html" />
-        <option value="$PROJECT_DIR$/coordinate/osusume.html" />
         <option value="$PROJECT_DIR$/revival/tohikifurisode.html" />
         <option value="$PROJECT_DIR$/information/customerfeedback.html" />
         <option value="$PROJECT_DIR$/event/kimonodeodekake.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/coordinate/sawayaka.html" />
+        <option value="$PROJECT_DIR$/coordinate/osusume.html" />
       </list>
     </option>
   </component>
@@ -274,12 +287,12 @@
       <workItem from="1558664261091" duration="502000" />
       <workItem from="1559139352935" duration="974000" />
       <workItem from="1559224526396" duration="253000" />
-      <workItem from="1559564790663" duration="378000" />
+      <workItem from="1559564790663" duration="1495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43718000" />
+    <option name="totallyTimeSpent" value="44835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="686" extended-state="0" />
@@ -579,13 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" selection-end-line="143" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coordinate/muji.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -603,6 +609,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
         </state>
       </provider>
     </entry>
