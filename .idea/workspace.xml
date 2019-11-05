@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/osusume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/osusume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/customerfeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/customerfeedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/tokodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/tokodomo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/information/customerfeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/customerfeedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revival/tokodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tokodomo.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,22 +50,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2970">
-              <caret line="198" column="10" selection-start-line="136" selection-end-line="198" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/revival/tokodomo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            <state relative-caret-position="250">
+              <caret line="184" column="117" selection-start-line="184" selection-start-column="117" selection-end-line="184" selection-end-column="117" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/revival/tokodomo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="109" column="117" selection-start-line="109" selection-start-column="117" selection-end-line="109" selection-end-column="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
@@ -164,15 +166,15 @@
         <option value="$PROJECT_DIR$/coordinate/tsukesage.html" />
         <option value="$PROJECT_DIR$/information/staff.html" />
         <option value="$PROJECT_DIR$/coordinate/kodomo.html" />
-        <option value="$PROJECT_DIR$/information/customerfeedback.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/revival/tocoat.html" />
-        <option value="$PROJECT_DIR$/revival/tokodomo.html" />
         <option value="$PROJECT_DIR$/coordinate/komon.html" />
         <option value="$PROJECT_DIR$/coordinate/coat.html" />
         <option value="$PROJECT_DIR$/event/kanshasai.html" />
         <option value="$PROJECT_DIR$/event/tenjikai.html" />
         <option value="$PROJECT_DIR$/coordinate/osusume.html" />
+        <option value="$PROJECT_DIR$/information/customerfeedback.html" />
+        <option value="$PROJECT_DIR$/revival/tokodomo.html" />
       </list>
     </option>
   </component>
@@ -304,12 +306,12 @@
       <workItem from="1568979230313" duration="2821000" />
       <workItem from="1570920821351" duration="245000" />
       <workItem from="1572580076502" duration="3549000" />
-      <workItem from="1572662363292" duration="109000" />
+      <workItem from="1572662363292" duration="356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62671000" />
+    <option name="totallyTimeSpent" value="62918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="180" y="23" width="1260" height="686" extended-state="0" />
@@ -592,20 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="198" column="10" selection-start-line="136" selection-end-line="198" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/revival/tokodomo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coordinate/komon.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
@@ -645,6 +633,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="19" column="206" selection-start-line="19" selection-start-column="206" selection-end-line="19" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="184" column="117" selection-start-line="184" selection-start-column="117" selection-end-line="184" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revival/tokodomo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="109" column="117" selection-start-line="109" selection-start-column="117" selection-end-line="109" selection-end-column="117" />
         </state>
       </provider>
     </entry>
