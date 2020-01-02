@@ -16,8 +16,12 @@
       <change beforePath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/coordinate/yukata.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/yukata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/osusume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/kanshasai.html" beforeDir="false" afterPath="$PROJECT_DIR$/event/kanshasai.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/information/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/information/shop.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,11 +35,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="158" column="24" lean-forward="true" selection-start-line="158" selection-start-column="24" selection-end-line="158" selection-end-column="24" />
+            <state relative-caret-position="177">
+              <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/information/shop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -43,17 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2400">
-              <caret line="160" column="25" selection-start-line="160" selection-start-column="25" selection-end-line="160" selection-end-column="25" />
+            <state relative-caret-position="-908">
+              <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -108,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/event/kanshasai.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="300">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -175,7 +179,6 @@
         <option value="$PROJECT_DIR$/revival/tocoat.html" />
         <option value="$PROJECT_DIR$/coordinate/komon.html" />
         <option value="$PROJECT_DIR$/coordinate/coat.html" />
-        <option value="$PROJECT_DIR$/event/kanshasai.html" />
         <option value="$PROJECT_DIR$/event/tenjikai.html" />
         <option value="$PROJECT_DIR$/revival/tokodomo.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
@@ -183,9 +186,10 @@
         <option value="$PROJECT_DIR$/information/newsletter.html" />
         <option value="$PROJECT_DIR$/information/customerfeedback.html" />
         <option value="$PROJECT_DIR$/revival/toUmbrella.html" />
-        <option value="$PROJECT_DIR$/information/shop.html" />
         <option value="$PROJECT_DIR$/coordinate/osusume.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/information/shop.html" />
+        <option value="$PROJECT_DIR$/event/kanshasai.html" />
       </list>
     </option>
   </component>
@@ -201,6 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,7 +237,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,11 +318,12 @@
       <workItem from="1574429933804" duration="590000" />
       <workItem from="1574751755969" duration="1409000" />
       <workItem from="1575528275903" duration="1190000" />
+      <workItem from="1577971260284" duration="1509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68425000" />
+    <option name="totallyTimeSpent" value="69934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="180" y="23" width="1260" height="686" extended-state="0" />
@@ -590,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/information/shop.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="50" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/information/customerfeedback.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2400">
@@ -642,24 +640,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event/kanshasai.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coordinate/osusume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+        <state relative-caret-position="-908">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="158" column="24" lean-forward="true" selection-start-line="158" selection-start-column="24" selection-end-line="158" selection-end-column="24" />
+        <state relative-caret-position="177">
+          <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/information/shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/kanshasai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
