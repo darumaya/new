@@ -1522,3 +1522,7 @@ a.thumbnail.banner-related:active .caption
         border: 0;
     }
 }
+
+.sale {
+    color: #ff0000;
+}
