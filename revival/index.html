@@ -20,3 +20,13 @@ category: 'きものの再生事例'
         <p>ご郵送でもご依頼いただけます。<br>
             ご郵送の際は、<a href = "/information/requestmethod.html">こちらのページ</a>で手順をご確認ください。</p>
 </section>
+
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+</section>

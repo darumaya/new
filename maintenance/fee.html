@@ -1,10 +1,10 @@
 ---
-title: 料金一覧
-description: きもののお手入れの料金一覧です
+title: 料金一覧・利用規約
+description: きもののお手入れの料金一覧とご利用規約です
 main_visual: '/images/f/fee-jumbotron-DSC05252-{width}{pixel_ratio}.jpg'
 thumbnail: '/images/f/fee-DSC05252-100-2x.jpg'
-snipet_1st: お手入れの
-snipet_2nd: 料金一覧です
+snipet_1st: お手入れの料金一覧と
+snipet_2nd: ご利用規約です
 layout: category-article
 category: 'きもののお手入れ'
 order: 100
@@ -194,6 +194,17 @@ related:
         </tbody>
     </table>
 </section>
+
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+</section>
+
 <section>
     <h2>郵送の際の支払い方法</h2>
     <h3>銀行口座</h3>

@@ -261,3 +261,13 @@ related:
     <p>だるまやではきものの仕立て屋さんを募集しています。</p>
     <p>仕立ての仕事を探している方、もしくはそういった方をご存知の方は、お電話か問い合わせフォームからご連絡ください。</p>
 </section>
+
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+</section>
