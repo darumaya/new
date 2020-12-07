@@ -51,3 +51,13 @@ order: 100
         （半衿、居敷当て、えもん抜き付）<br>
     </p>
 </section>
+
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+</section>

@@ -82,3 +82,12 @@ related:
     <p>解いて洗い張りして帯に仕立て：24,000円</p>
 </section>
 
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+</section>

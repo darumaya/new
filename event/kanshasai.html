@@ -19,8 +19,7 @@ order: 10
 
 <section>
     <h2>お客様感謝祭の期間</h2>
-    <p>11月12日（木）から11月30日（月）まで、お客様感謝祭を実施します。<br>
-        きもののお手入れをお考えの方は、この機会にぜひお持ちください。<br>
+    <p>次回の感謝祭は1月の予定です。<br>
         </p>
 </section>
 
@@ -218,4 +217,14 @@ order: 10
     <br>
     <h3>送料・箱代</h3>
     <p>枚数によりますが、1500円〜2000円</p>
+</section>
+
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
 </section>

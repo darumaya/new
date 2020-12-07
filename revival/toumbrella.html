@@ -35,3 +35,12 @@ order: 180
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hzOfc3Sy2zc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+</section>
