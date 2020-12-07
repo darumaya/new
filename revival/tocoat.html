@@ -18,6 +18,7 @@ order: 80
 <section>
     <h2>きものを道行コートに仕立て直す方法を動画で解説！</h2>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/gAk-vJGZu6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
 
 <section>
     <h2>きものを染め直して道行コートに仕立て直した事例</h2>
@@ -54,3 +55,12 @@ order: 80
     </p>
 </section>
 
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+</section>
