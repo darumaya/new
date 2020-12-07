@@ -90,7 +90,7 @@ carousel:
     </p>
     <br>
     <h3>送料・箱代</h3>
-    <p>枚数によりますが、1500円〜2000円</p>
+    <p>枚数によりますが、1包1500円〜2000円</p>
 </section>
 
 <section>
@@ -102,5 +102,15 @@ carousel:
         お客様の好みや着る場面などをお聞きしたいため、お電話でお話しさせていただけると、よりお客様にふさわしい品物をご案内できます。<br>
         無理強いは絶対にしませんので、気軽にご相談くださいませ。
     </p>
+</section>
+
+<section>
+    <h2>利用規約</h2>
+
+    {% for item in site.data.price-lists.["利用規約"] %}
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
 </section>
 
