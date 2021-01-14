@@ -58,6 +58,31 @@ order: 10
         </tbody>
 
     </table>
+
+    <h2>仕立ての料金</h2>
+    <p>湯のし・本湯通し代を含んだ料金です。<br>
+        特選とは本場大島や本結城や男物などです。<br>
+        長襦袢の料金には半衿、居敷当て代が含まれています。</p>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>きものの種類</th>
+            <th>通常料金(目安)</th>
+        </tr>
+        </thead>
+
+        <tbody>
+
+        {% for item in site.data.price-lists.["仕立て"] %}
+        <tr>
+            <td>{{ item.kimono }}</td>
+            <td>{{ item.sale_price }}</td>
+        </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+
     <h2>洗い張りから仕立て</h2>
     <p>解き、端縫い、洗い張り代を含んだ料金です。<br>
         特選とは本場大島や本結城や男物など、手間物とは弱生地や色のにじみそうな生地です。<br>
