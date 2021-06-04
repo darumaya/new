@@ -3,6 +3,58 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/coat.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/coat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/consult.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/consult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/furisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/furisode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/kodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/kodomo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/komon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/komon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/muji.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/muji.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/osusume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/otoko.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/otoko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/sawayaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/sawayaka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsukesage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/tsumugi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/coordinate/yukata.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/coordinate/yukata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/araiharitaiken.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/araiharitaiken.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/kanshasai.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/kanshasai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/kimonodeodekake.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/kimonodeodekake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/rentalspace.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/rentalspace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/seijinshiki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/seijinshiki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/tenjikai.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/tenjikai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/tomurayoko.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/tomurayoko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/customerfeedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/customerfeedback.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/furusato.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/furusato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/newsletter.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/newsletter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/requestmethod.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/requestmethod.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/information/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/information/staff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/araihari.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/araihari.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/fee.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/fee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/mon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/mon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/shiminuki.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/shiminuki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/shitate.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/shitate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/some.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/some.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/maintenance/yunoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/maintenance/yunoshi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/shishu.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/shishu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/shitatenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/shitatenaoshi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/somenaoshi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/somenaoshi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/tocoat.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/tocoat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/tohikifurisode.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/tohikifurisode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/tojuban.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/tojuban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/tokodomo.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/tokodomo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/tonoren.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/tonoren.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/toobi.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/toobi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/revival/toumbrella.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/revival/toumbrella.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revival/tonoren.html" beforeDir="false" afterPath="$PROJECT_DIR$/revival/tonoren.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,20 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revival/tokodomo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="10" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/revival/tonoren.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -55,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/revival/tojuban.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="72" selection-start-line="10" selection-end-line="26" selection-end-column="72" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="8" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -401,7 +453,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158202000" />
+    <option name="totallyTimeSpent" value="158862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="71" width="1260" height="686" extended-state="0" />
@@ -735,24 +787,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/revival/tonoren.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/revival/tojuban.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="72" selection-start-line="10" selection-end-line="26" selection-end-column="72" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="8" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/revival/tokodomo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revival/tonoren.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
