@@ -252,6 +252,13 @@ related:
 </section>
 
 <section>
+    <h2>洗い張りの注意点</h2>
+    {% for item in site.data.price-lists.["洗い張りの注意点"] %}
+    <h4>{{ item.title }}</h4>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+
     <h2>洗い張りに関するよくある質問</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
         <div class="panel panel-default">
