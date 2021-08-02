@@ -145,6 +145,13 @@ related:
 </section>
 
 <section>
+    <h2>染めの注意点</h2>
+    {% for item in site.data.price-lists.["染めの注意点"] %}
+    <h4>{{ item.title }}</h4>
+    <p>{{ item.text }}</p>
+    <br>
+    {% endfor %}
+
     <h2>利用規約</h2>
 
     {% for item in site.data.price-lists.["利用規約"] %}
