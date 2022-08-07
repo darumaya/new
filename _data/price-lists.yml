@@ -197,19 +197,22 @@
   - kimono:         "色指定"
     regular_price:  "&yen;6,000増し"
     sale_price:     "&yen;3,000増し"
+  - kimono: "お急ぎ（31営業日〜40営業日以内）"
+    regular_price: "&yen;2,000増し"
+    sale_price: "&yen;2,000増し"
 
 "湯のし":
   - kimono:         "一反物"
-    regular_price:  "&yen;3,000"
-    sale_price:     "&yen;1,500"
+    regular_price:  "&yen;4,000"
+    sale_price:     "&yen;2,000"
   - kimono:         "八掛"
     regular_price:  "&yen;2,000"
     sale_price:     "&yen;1,000"
 
 "本湯通し":
   - kimono:         "一反物"
-    regular_price:  "&yen;6,000"
-    sale_price:     "&yen;3,000"
+    regular_price:  "&yen;8,000"
+    sale_price:     "&yen;4,000"
   - kimono:         "総絞りの幅出し"
     regular_price:  "&yen;8,000"
     sale_price:     "&yen;4,000"
