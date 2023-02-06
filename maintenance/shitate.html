@@ -253,11 +253,54 @@ related:
         </tbody>
     </table>
 
-    <section>
-        <h2>洗い張りから仕立てにかかる期間</h2>
-        <p>混雑状況にもよりますが、通常3ヵ月～3ヶ月半程度いただいております。<br>
-            着用日が決まっている場合など、お急ぎの場合は、通常よりも早く作業することもできますのでお気軽にご相談ください。</p>
-    </section>
+    <h2>湯のしの料金</h2>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>きものの種類</th>
+            <th>通常料金(目安)</th>
+            <th>感謝祭料金(目安)</th>
+        </tr>
+        </thead>
+
+        <tbody>
+
+        {% for item in site.data.price-lists.["湯のし"] %}
+        <tr>
+            <td>{{ item.kimono }}</td>
+            <td>{{ item.regular_price }}</td>
+            <td>{{ item.sale_price }}</td>
+        </tr>
+        {% endfor %}
+
+        </tbody>
+    </table>
+
+    <h2>本湯通しの料金</h2>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>きものの種類</th>
+            <th>通常料金(目安)</th>
+            <th>感謝祭料金(目安)</th>
+        </tr>
+        </thead>
+
+        <tbody>
+
+        {% for item in site.data.price-lists.["本湯通し"] %}
+        <tr>
+            <td>{{ item.kimono }}</td>
+            <td>{{ item.regular_price }}</td>
+            <td>{{ item.sale_price }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <h2>洗い張りから仕立てにかかる期間</h2>
+    <p>混雑状況にもよりますが、通常3ヵ月～3ヶ月半程度いただいております。<br>
+        着用日が決まっている場合など、お急ぎの場合は、通常よりも早く作業することもできますのでお気軽にご相談ください。</p>
 
     <h2>洗い張りから仕立ての料金</h2>
     <p>解き、端縫い、洗い張り代を含んだ料金です。<br>
