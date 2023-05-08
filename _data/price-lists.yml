@@ -130,10 +130,7 @@
     sale_price:     "&yen;4,000増し"
 
 "丸洗いとしみ抜き":
-  - kimono:         "小紋"
-    regular_price:  "&yen;11,000"
-    sale_price:     "&yen;5,500"
-  - kimono:         "無地、紬"
+  - kimono:         "小紋、無地、紬"
     regular_price:  "&yen;12,000"
     sale_price:     "&yen;6,000"
   - kimono:         "訪問着、喪服"
