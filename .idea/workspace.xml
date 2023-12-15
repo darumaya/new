@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/osusume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-=======
-    <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="" />
->>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -378,12 +373,9 @@
       <workItem from="1694758940030" duration="2463000" />
       <workItem from="1696552086518" duration="3234000" />
       <workItem from="1697172165448" duration="1595000" />
-<<<<<<< Updated upstream
       <workItem from="1699232062909" duration="2099000" />
-=======
       <workItem from="1699232062909" duration="2697000" />
-      <workItem from="1702606031650" duration="2659000" />
->>>>>>> Stashed changes
+      <workItem from="1702606031650" duration="2137000" />
     </task>
     <servers />
   </component>
