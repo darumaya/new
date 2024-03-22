@@ -147,7 +147,6 @@ order: 50
         <tr>
             <th>きものの種類</th>
             <th>通常料金(税込)</th>
-            <th>感謝祭料金(税込)</th>
         </tr>
         </thead>
 
@@ -156,7 +155,6 @@ order: 50
         {% for item in site.data.price-lists.["紋入れ"] %}
         <tr>
             <td>{{ item.kimono }}</td>
-            <td>{{ item.regular_price }}</td>
             <td>{{ item.sale_price }}</td>
         </tr>
         {% endfor %}
