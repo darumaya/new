@@ -6,8 +6,161 @@
   <component name="ChangeListManager">
     <list default="true" id="9eb936bf-3d9d-41f4-8d08-684e74739453" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coordinate/osusume.html" beforeDir="false" afterPath="$PROJECT_DIR$/coordinate/osusume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-1-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-1-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-1-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-1-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-1-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-1-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-2-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-2-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-2-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-2-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-2-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-2-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-3-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-3-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-3-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-3-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-3-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-3-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-4-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-4-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-4-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-4-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-4-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-4-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-5-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-5-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-5-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-5-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-5-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-5-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-6-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-6-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-6-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-6-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-6-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-6-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-LINEjirei-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-LINEjirei-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-LINEjirei-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-LINEjirei-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-LINEjirei-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-LINEjirei-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-araihari-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-araihari-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-araihari-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-araihari-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-araihari-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-araihari-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-fee-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-fee-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-fee-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-fee-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-fee-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-fee-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-full-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-full-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-full-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-full-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-full-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-full-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata2-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata2-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata2-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata2-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata2-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-kisugata2-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-line-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-line-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-line-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-line-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-line-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-line-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri2-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri2-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri2-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri2-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri2-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-mamafuri2-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-nouki-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-nouki-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-nouki-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-nouki-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-nouki-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-nouki-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point1-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point1-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point1-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point1-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point1-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point1-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point2-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point2-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point2-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point2-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point2-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point2-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point3-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point3-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point3-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point3-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point3-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point3-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point4-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point4-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point4-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point4-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point4-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point4-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point5-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point5-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point5-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point5-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point5-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-point5-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-shitate-md-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-shitate-md.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-shitate-sm-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-shitate-sm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-shitate-xs-2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s/shitatenaoshilp-shitate-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shitatenaoshi_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/shitatenaoshi_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-LINEjirei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-araihari.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-fee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-full.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-kisugata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-kisugata2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-mamafuri.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-mamafuri2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-nouki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-point1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-point2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-point3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-point4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-point5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/s/shitatenaoshilp-shitate.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -410,7 +563,8 @@
       <workItem from="1736406911895" duration="5594000" />
       <workItem from="1736575460480" duration="1294000" />
       <workItem from="1736986657576" duration="3296000" />
-      <workItem from="1739520951901" duration="557000" />
+      <workItem from="1739520951901" duration="1451000" />
+      <workItem from="1740097829093" duration="949000" />
     </task>
     <servers />
   </component>
